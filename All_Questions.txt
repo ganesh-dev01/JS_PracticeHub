@@ -1,0 +1,36 @@
+Q1) Write a JavaScript program to get the minimum value of an array, after mapping
+ each element to a value using the provided function
+
+Q2) Write a JavaScript program to create an object from the specified object,
+ where all keys are in lowercase
+
+Q3) Write a JavaScript program to check if the given argument is a string.
+
+Q4) Write a JavaScript function to remove. 'null', '0', '""', 'false', 'undefined' and 'NaN' 
+values from an array.
+Sample array : [NaN, 0, 15, false, -22, '',undefined, 47, null]
+Expected result : [15, -22, 47]
+
+
+Q5) Write a JavaScript conditional statement to find the largest of five numbers.
+
+Q6) const myObject = { a: 1, b: 2, c: 3 }; Obtain the values of this object in an array
+
+Q7) Given an array of numbers, write a function to find the largest and 
+smallest numbers in the array.  [Avoid using Math.min & Math.max method]
+
+
+Q8) Write a JavaScript program to calculate the factorial of a given number. 
+
+Q9) Given a string, write a function to count the occurrences of each character in the string. 
+
+Q10) Write a function that takes an array of integers and returns the largest difference between any two numbers in the array.
+ 
+Q11) Write a function that returns the sum of all numbers in an array. 
+
+Q12) Write a function that returns a new array containing only the unique elements from an input array.
+ 
+Q13) Implement a function that finds the index of a specific element in an array. If the element is not found, the function should return -1. 
+
+Q14)Write a function that finds the second largest number in an array.
+ 
