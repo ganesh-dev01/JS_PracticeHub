@@ -33,4 +33,32 @@ Q12) Write a function that returns a new array containing only the unique elemen
 Q13) Implement a function that finds the index of a specific element in an array. If the element is not found, the function should return -1. 
 
 Q14)Write a function that finds the second largest number in an array.
- 
+
+Q15) Write a function that reverses a string without using the built-in reverse() method.
+
+Q16)Create a function that takes an array of numbers and returns the sum of all unique numbers in the array.
+
+Q17)Write a function that takes a string and returns true if the string is a palindrome, false otherwise. Ignore non-alphanumeric characters.
+
+Q18)Implement a function that sorts an array of objects based on a specified property value in ascending order.
+
+Q19)Create a function that takes two arrays and returns a new array with unique elements from both arrays, in the order they appear.
+
+Q20)Write a function that converts a Roman numeral (as a string) to an integer.
+
+Q21)Implement a function that checks if two strings are anagrams of each other (ignore spaces, capitalization, and punctuation).
+
+Q22)Create a function that generates a random alphanumeric string of a specified length.
+
+Q23)Write a function that flattens a nested array (single level).
+
+Q24)Implement a function that rotates an array to the right by a specified number of steps.
+
+Q25)Write a function that takes a positive integer and returns an array of its digits in reverse order.
+
+For example:
+
+Input: 1234
+Output: [4, 3, 2, 1]
+
+Q26)
