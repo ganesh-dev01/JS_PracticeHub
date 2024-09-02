@@ -17,10 +17,12 @@ let arr = [
 ];
 
 
-function sortArrayByProperty(arr, property) {
-    return arr.sort((a, b) => a[property] - b[property]);
-}
+// function sortArrayByProperty(arr, property) {
+//     return arr.sort((a, b) => a[property] - b[property]);
+// }
 
-let sortedArray = sortArrayByProperty(arr, 'age');
+// let sortedArray = sortArrayByProperty(arr, 'age');
 
-console.log(sortedArray);
+// console.log(sortedArray);
+
+console.log(arr[0][age]);
